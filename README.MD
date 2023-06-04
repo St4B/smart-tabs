@@ -2,7 +2,7 @@
 <a href="https://androidweekly.net/issues/issue-524"><img alt="Badge" height="20px"  src="https://androidweekly.net/issues/issue-524/badge"></a>
 
 A simple library that helps us to sync a `TabRow` with a `LazyColumn`. The motives behind creating
-it can be found in this [post](https://engineering.theblueground.com/blog/).
+it can be found in this [post](https://engineering.theblueground.com/auto-sync-tabs-and-a-list-with-jetpack-compose/).
 
 ## Installation
 
